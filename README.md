@@ -10,6 +10,6 @@ Steps to run our code:
 * Upload the datasets and the models to google drive in appropriate directories as shown.
 ![](ml_sec_dir_str.png)
 
-* Open the provided '.ipynb' notebook in Colab or Jupyter, mount yout google drive and run the code. 
+* Open the provided '.ipynb' notebook in Colab, mount your google drive and run the code. 
 
 
