@@ -8,7 +8,7 @@ Steps to run our code:
 * Also, our approach takes 3 inputs, the badnet model, clean validation set, and poisoned set.
 * Create a directory with the name 'CSAW-HackML-2020-master_new' in google drive 
 * Upload the datasets and the models to google drive in appropriate directories as shown.
-![](.jpg)
+![](ml_sec_dir_str.png)
 
 * Open the provided '.ipynb' notebook in Colab or Jupyter, mount yout google drive and run the code. 
 
