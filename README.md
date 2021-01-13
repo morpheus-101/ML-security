@@ -8,7 +8,7 @@ Steps to run our code:
  
 * Also, our approach takes 3 inputs, the badnet model, clean validation set, and test image.
 
-#h4 Evaluate our model by running: %run -i eval_code.py    clean_validation_data.h5    bad_net   test_img.png
+#H4 Evaluate our model by running: %run -i eval_code.py    clean_validation_data.h5    bad_net   test_img.png
 
 * The file 'eval_final_code.py' should be placed in the following location -- /content/drive/MyDrive/CSAW-HackML-2020-master_new/eval_final_code.py
 * The file 'final_code_run.ipynb' shows how to run our code on Google Colab. 
