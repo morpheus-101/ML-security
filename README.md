@@ -8,7 +8,7 @@ Steps to run our code:
 * The code inlcuded in the repository uses 1000 clean images and 1000 poisoned images. 
 * Also, our approach takes 3 inputs, the badnet model, clean validation set, and poisoned set.
 * Evaluate our model by running: %run -i eval_final_code.py    clean_validation_data    bad_net   poisoned_data.
-* The file 'eval_final_code.py' should be placed in the following location -- /content/drive/MyDrive/CSAW-HackML-2020-master_new/final_code.py
+* The file 'eval_final_code.py' should be placed in the following location -- /content/drive/MyDrive/CSAW-HackML-2020-master_new/eval_final_code.py
 * The file 'final_code_run.ipynb' shows how to run our code on Google Colab. 
 * Create a directory with the name 'CSAW-HackML-2020-master_new' in google drive 
 * Upload the datasets and the models to google drive in appropriate directories as shown.
